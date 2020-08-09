@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/truckwelcome/static/css/main.8b076cef.chunk.css",
+    "main.js": "/truckwelcome/static/js/main.afc8b467.chunk.js",
+    "main.js.map": "/truckwelcome/static/js/main.afc8b467.chunk.js.map",
+    "runtime-main.js": "/truckwelcome/static/js/runtime-main.85fe2b5d.js",
+    "runtime-main.js.map": "/truckwelcome/static/js/runtime-main.85fe2b5d.js.map",
+    "static/css/2.11829350.chunk.css": "/truckwelcome/static/css/2.11829350.chunk.css",
+    "static/js/2.ee436aa6.chunk.js": "/truckwelcome/static/js/2.ee436aa6.chunk.js",
+    "static/js/2.ee436aa6.chunk.js.map": "/truckwelcome/static/js/2.ee436aa6.chunk.js.map",
+    "index.html": "/truckwelcome/index.html",
+    "precache-manifest.750881bc5f1d2077f4b36c173391e126.js": "/truckwelcome/precache-manifest.750881bc5f1d2077f4b36c173391e126.js",
+    "service-worker.js": "/truckwelcome/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/truckwelcome/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8b076cef.chunk.css.map": "/truckwelcome/static/css/main.8b076cef.chunk.css.map",
+    "static/js/2.ee436aa6.chunk.js.LICENSE.txt": "/truckwelcome/static/js/2.ee436aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85fe2b5d.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ee436aa6.chunk.js",
+    "static/css/main.8b076cef.chunk.css",
+    "static/js/main.afc8b467.chunk.js"
+  ]
+}
